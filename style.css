@@ -196,6 +196,8 @@
     }
 }
 
+            /* Questa parte è copiata ma quella sotto ho cercato di farla io e penso che si noti */
+
 .ex-13-button:hover .ex-13-top-white {
     animation: moveTopWhiteCompletely 2s linear;
 }
