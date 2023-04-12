@@ -130,3 +130,13 @@
     transform: scale(1.5);
     border-radius: 15px;
 }
+
+.ex-10-icon {
+    animation:spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0%{
+        transform: rotate(360deg);
+    }
+}
